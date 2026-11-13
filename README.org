@@ -4,7 +4,7 @@ Cancellation propagation library for Common Lisp with deadlines and timeouts.
 
 |---------+------------------------------------------------|
 | source  | git:https://github.com/atgreen/cl-cancel.git  |
-| commit  | 7ea333b                                        |
+| commit  | 6e0db3c                                        |
 | systems | cl-cancel                                      |
 |---------+------------------------------------------------|
 
